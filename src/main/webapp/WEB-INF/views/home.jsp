@@ -9,6 +9,9 @@
 <body>
 	<h1>Home Page  </h1>
 	<h2>Name: ${name}</h2>
-	<h2>Password: ${pass}</h2>
+<%--	<h2>Address: ${Person.getAddress()}</h2>--%>
+<%--	<h2>Email: ${Person.getEmail()}</h2>--%>
+
+	<%--	<h2>Password: ${pass}</h2>--%>
 </body>
 </html>
